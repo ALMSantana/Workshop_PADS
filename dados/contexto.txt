@@ -1,0 +1,21 @@
+## Dados da Empresa
+
+Nome da Empresa: Skate Life Ltda.
+Endereço: Rua dos Skatistas, 123, Centro, Cidade Skate
+Telefone: (XX) 1234-5678
+E-mail: contato@skatelife.com.br
+Website: www.skatelife.com.br
+
+## Lista de Produtos
+
+1. Shape de Skate - marca Skate Life, tamanho 8.0" - R$150,00
+2. Truck de Skate - marca Independent, tamanho 139 - R$200,00
+3. Rodas de Skate - marca Bones, tamanho 53mm - R$80,00 (conjunto com 4 unidades)
+4. Rolamentos de Skate - marca Bones Reds - R$100,00 (conjunto com 8 rolamentos)
+5. Tênis Skate - marca Vans, modelo Old Skool - R$250,00
+
+## Política de Troca
+
+1. Trocas por defeito de fabricação:
+   - Caso o produto apresente algum defeito de fabricação, o cliente pode realizar a troca em até 30 dias após a data da compra, mediante apresentação da nota fiscal.
+   - A troca será realizada
