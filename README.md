@@ -19,11 +19,13 @@ source pads_02/bin/activate
 ### Instalação das Bibliotecas
 
 ```bash
-pip install numpy openai python-dotenv tiktoken flask opencv-python
+pip install numpy pandas openai python-dotenv tiktoken opencv-python
 ```
 
 ## 📚 Referências de Leitura
 
+- [Documentação OpenAI](https://platform.openai.com/docs/overview)
+- [Modelos OpenAI](https://platform.openai.com/docs/models)
 - [Documentação Whisper](https://openai.com/research/whisper)
 - [Documentação Dall-E](https://openai.com/research/dall-e)
 - [Preços OpenAI](https://openai.com/pricing)
